@@ -1,0 +1,5 @@
+apache-airflow==2.8.1
+apache-airflow-providers-apache-kafka
+apache-airflow-providers-google
+kafka-python
+google-cloud-bigquery
